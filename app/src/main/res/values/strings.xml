@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Echo Player</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="Allsongs">allsongs</string>
+    <string name="setting">setting</string>
+    <string name="about_us">aboutus</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AllSongsDashboard">AllSongs Fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="abouttext">
+        <br>
+            This app ia made by joey Tribbiani as
+        </br>
+        <br>
+            part of Internshala's Online Android
+        </br>
+        <br>
+            Training projects.
+        </br>
+        <br>
+            App version: 1.0
+        </br>
+    </string>
+</resources>
