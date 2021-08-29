@@ -1,2 +1,2 @@
 # EchoPlayer
- A music player app
+ A music player in Constructing.
